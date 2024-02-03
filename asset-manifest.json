@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quote-quest/static/css/main.1cda6835.css",
+    "main.js": "/quote-quest/static/js/main.beabbd61.js",
+    "static/js/651.d7ad7e6d.chunk.js": "/quote-quest/static/js/651.d7ad7e6d.chunk.js",
+    "index.html": "/quote-quest/index.html",
+    "main.1cda6835.css.map": "/quote-quest/static/css/main.1cda6835.css.map",
+    "main.beabbd61.js.map": "/quote-quest/static/js/main.beabbd61.js.map",
+    "651.d7ad7e6d.chunk.js.map": "/quote-quest/static/js/651.d7ad7e6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cda6835.css",
+    "static/js/main.beabbd61.js"
+  ]
+}
